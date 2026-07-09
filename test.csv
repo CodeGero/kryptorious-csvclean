@@ -1,0 +1,11 @@
+Name,Age,Email,Department
+Alice,30,alice@example.com,Engineering
+Bob,25,bob@example.com,Sales
+Charlie,,charlie@example.com,Engineering
+Diana,28,diana@example.com,Marketing
+,35,empty@example.com,Support
+Alice,30,alice@example.com,Engineering
+Frank,forty-two,frank@example.com,Sales
+Grace,22,grace@example.com,
+Bob,25,bob@example.com,Sales
+extra,column,here
